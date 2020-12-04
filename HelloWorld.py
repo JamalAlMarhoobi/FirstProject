@@ -4,4 +4,5 @@
 # Add your name as a comment here
 print("Your name here")
 # **********************************
+# Do not remove/delete previous comments or line, just add yours afterwards
 # Start adding your names from this point on
